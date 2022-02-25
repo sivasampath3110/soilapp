@@ -1,0 +1,48 @@
+.crop{
+  position: relative;
+  padding-left: 10px;
+  text-align: center;
+}
+
+#im1{
+width: 20%;
+}
+
+#im2{
+width: 23%;
+padding-left: 15px;
+}
+
+#im3{
+width: 20%;
+padding-left: 15px;
+}
+
+#im4{
+width: 18%;
+padding-left: 15px;
+}
+
+#im5{
+width: 16%;
+padding-top: 30px;
+padding-right: 15px;
+}
+
+#im6{
+padding-top: 38px;
+}
+
+#im7{
+padding-top: 30px;
+padding-left: 15px;
+}
+
+#im8{
+padding-top: 30px;
+padding-left: 15px;
+}
+
+h1{
+  padding-top: 15px;
+}
