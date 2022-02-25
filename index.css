@@ -11,3 +11,16 @@ width: 100px;
 height: 50px;
 
 }
+
+
+@media screen and (max-width: 480px) {
+  .fer{
+    text-align: center;
+  }
+  .crp{
+    text-align: center;
+  }
+  h3{
+    text-align: center;
+  }
+}
